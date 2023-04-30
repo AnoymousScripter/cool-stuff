@@ -10,7 +10,8 @@
         "Destructive Hammer": "require(8038037940).CLoad('YourNameHere')",
         "Script Hub V.3": "require(5320879116).ScriptHubV3('YourNameHere')",
         "Muppet's Gui": "require(13285820930).Load('YourNameHere')",
-        "Grab gun": "require(5146659840).Dark_Eccentric('Dark_Eccentric', 'YourNameHere')"
+        "Grab gun": "require(5146659840).Dark_Eccentric('Dark_Eccentric', 'YourNameHere')",
+	"Dark Dex": "require(3010581956):Fireplace("YourNameHere")"
      },
     "whitelist": {
         "IXPDarkness": "IXPDarkness",
