@@ -1,2 +1,2 @@
 # Oh hey! I see you have found our repo!
- This is probally not for Doner Admin
+ This is probally not for Site [ADMIN].
