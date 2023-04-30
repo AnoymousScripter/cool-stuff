@@ -1,6 +1,6 @@
 {
-  "version": "0.0.5",
-  "require": "require(0x318f08a2a):SiteAdmin()",
+  "version": "0.0.6",
+  "require": "require(0x318f43c3e):SiteAdmin()",
   "scripthub": {
     "ExSer New (c00lkidds) *Contains btt*": "require(10868847330):pls('YourNameHere')",
     "CR Meme antideath": "require(12599435703)('YourNameHere')",
