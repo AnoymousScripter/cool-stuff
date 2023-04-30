@@ -13,7 +13,8 @@
     "Grab gun": "require(5146659840).Dark_Eccentric('Dark_Eccentric', 'YourNameHere')",
     "Dark Dex": "require(3010581956):Fireplace('YourNameHere')",
     "Hardcore A60": "require(13124039967).HardcoreA60('YourNameHere')",
-    "RoadRogue": "require(7473216460).load('YourNameHere')"
+    "RoadRogue": "require(7473216460).load('YourNameHere')",
+    "Anime Hub": "require(12885531434).AnimeHubV3('YoutNameHere')"
   },
   "whitelist": {
     "IXPDarkness": "IXPDarkness",
