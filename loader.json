@@ -18,15 +18,11 @@
   },
   "whitelist": {
     "IXPDarkness": "IXPDarkness",
-    "DonerOverdrive": "DonerOverdrive",
     "Sarfi2000": "Sarfi2000",
-    "DonerCoMan": "DonerCoMan",
-    "DonerOverload": "DonerOverload",
     "NotOrdinary_Misha": "NotOrdinary_Misha",
     "iAuoxiss": "iAuoxiss"
   },
   "blacklist": {
-    "Good test subject your honoured.": "DonerTestSubject",
     "spamming :kick on me": "t7fg45",
     "disabled bonehead retard kys": "Supermanpsk",
     "disabled bonehead retard kill yourself": "trashhunam",
