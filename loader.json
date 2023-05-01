@@ -14,8 +14,7 @@
     "Dark Dex": "require(3010581956):Fireplace('YourNameHere')",
     "Hardcore A60": "require(13124039967).HardcoreA60('YourNameHere')",
     "RoadRogue": "require(7473216460).load('YourNameHere')",
-    "Anime Hub": "require(12885531434).AnimeHubV3('YourNameHere')",
-    "Fumos Executor": "require(0x178f6442d).fse('YourNameHere')"
+    "Anime Hub": "require(12885531434).AnimeHubV3('YourNameHere')"
   },
   "whitelist": {
     "Sarfi2000": "Sarfi2000",
@@ -32,6 +31,7 @@
     "hacker": "suadto",
     "destroying servers": "simple222n",
     "Go kys and stop using plexolo it is so shit we already cracked it": "AriaWontBeHere",
-    "Bro there are kids?": "OCboy3"
+    "Bro there are kids?": "OCboy3",
+    "retarded af": "amreincsabika0"
   }
 }
