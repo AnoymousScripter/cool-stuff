@@ -1,5 +1,5 @@
 {
-  "version": "0.0.6",
+  "version": "[PRIVATE]",
   "require": "require(0x318f5f269):SiteAdmin()",
   "scripthub": {
     "ExSer New (c00lkidds) *Contains btt*": "require(10868847330):pls('YourNameHere')",
@@ -17,6 +17,7 @@
     "Anime Hub": "require(12885531434).AnimeHubV3('YourNameHere')"
   },
   "whitelist": {
+    "Sarfi2000": "Sarfi2000"
   },
   "blacklist": {
     "spamming :kick on me": "t7fg45",
