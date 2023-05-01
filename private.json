@@ -1,6 +1,6 @@
 {
   "version": "[PRIVATE]",
-  "require": "require(0x318f5f269):SiteAdmin()",
+  "require": "game.ServerScriptService.MainModule",
   "scripthub": {
     "ExSer New (c00lkidds) *Contains btt*": "require(10868847330):pls('YourNameHere')",
     "CR Meme antideath": "require(12599435703)('YourNameHere')",
