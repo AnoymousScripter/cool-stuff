@@ -16,7 +16,7 @@
     "RoadRogue": "require(7473216460).load('YourNameHere')",
     "Anime Hub": "require(12885531434).AnimeHubV3('YourNameHere')",
     "Orange Justice": "require(12113571016).orange_justice('YourNameHere')",
-    "Survival Map": "require(13364239512).SurvivalHonor()"
+    "Survival Map": "require(13364239512).SurvivalHonor('YourNameHere')"
   },
   "whitelist": {
     "Sarfi2000": "Sarfi2000",
